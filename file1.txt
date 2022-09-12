@@ -1,1 +1,2 @@
 This is for learning GITHUB.
+Git clone and git pull command is completed.
