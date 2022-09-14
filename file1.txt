@@ -2,5 +2,11 @@ This is for learning GITHUB.
 Git clone and git pull command is completed.
 This is added to understand .git.
 I am merging two files to cdt.
+<<<<<<< HEAD
 Updating file cdt
 New line is added for dev2
+=======
+updating file cdt
+New line is added for dev2 in test.txt
+This i new line for cdt added on 9/14/2022
+>>>>>>> cdt
